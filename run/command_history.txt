@@ -1,0 +1,46 @@
+/give @s minecraft:powered_rail
+/give @s minecraft:minecart
+/give @s minecraft:rail
+/give @s minecraft:minecart
+/give @s minecraft:rail
+/give @s minecraft:powered_rail
+/gamerule minecartMaxSpeed 1000
+/gamerule minecartMaxSpeed 0
+/gamerule minecartMaxSpeed 1
+/gamerule minecartMaxSpeed 1000
+/give @s minecraft:minecart
+/gamerule minecartMaxSpeed
+/speed-minecart 0
+/gamerule minecartMaxSpeed
+/gamerule minecartMaxSpeed 5
+/gamerule minecartMaxSpeed 100
+/gamerule minecartMaxSpeed 1000
+/speed-minecart 114514
+/speed-minecart 10
+/gamerule minecartMaxSpeed
+/gamerule minecartMaxSpeed 5
+/weather clear 1000
+/give @s minecraft:minecart
+/speed-minecart 100
+/gamerule minecartMaxSpeed
+/gamerule minecartMaxSpeed 100
+/gamerule minecartMaxSpeed 5
+/speed-minecart 5
+/speed-minecart 0
+/speed-minecart 1
+/gamerule minecartMaxSpeed
+/speed-minecart 2
+/speed-minecart 1145
+/speed-minecart 11451
+/speed-minecart 1145
+/speed-minecart 11
+/speed-minecart 5
+/gamerule minecartMaxSpeed 8
+/speed-minecart 2
+/speed-minecart 1145
+/speed-minecart 11451
+/weather clear 1000d
+/gamerule minecartMaxSpeed
+/speed-minecart 100
+/speed-minecart 1009
+/give @s minecraft:minecart

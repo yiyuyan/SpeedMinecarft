@@ -1,0 +1,26 @@
+{
+  "mappings": {
+    "cn/ksmcbrigade/sm/mixin/GameRulesMixin": {
+      "getInt": "Lnet/minecraft/class_1928;method_8356(Lnet/minecraft/class_1928$class_4313;)I"
+    },
+    "cn/ksmcbrigade/sm/mixin/KeyBindingMixin": {
+      "onKeyPressed": "Lnet/minecraft/class_304;method_1420(Lnet/minecraft/class_3675$class_306;)V"
+    },
+    "cn/ksmcbrigade/sm/mixin/MinecartControllerMixin": {
+      "getSpeedRetention": "method_61599()D"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "cn/ksmcbrigade/sm/mixin/GameRulesMixin": {
+        "getInt": "Lnet/minecraft/class_1928;method_8356(Lnet/minecraft/class_1928$class_4313;)I"
+      },
+      "cn/ksmcbrigade/sm/mixin/KeyBindingMixin": {
+        "onKeyPressed": "Lnet/minecraft/class_304;method_1420(Lnet/minecraft/class_3675$class_306;)V"
+      },
+      "cn/ksmcbrigade/sm/mixin/MinecartControllerMixin": {
+        "getSpeedRetention": "method_61599()D"
+      }
+    }
+  }
+}

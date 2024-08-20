@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "sm",
+  "version": "${version}",
+  "name": "SpeedMinecarft",
+  "description": "",
+  "authors": [
+    "KSmc_brigade"
+  ],
+  "contact": {
+    "repo": "https://github.com/yiyuyan/SpeedMinecarft"
+  },
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "cn.ksmcbrigade.sm.SpeedMinecart"
+    ]
+  },
+  "mixins": [
+    "sm.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "1.21.2-alpha.24.33.a"
+  }
+}
